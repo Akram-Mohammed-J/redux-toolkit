@@ -1,9 +1,13 @@
 
+#### App ScreenShot
+![Shopping Cart](https://user-images.githubusercontent.com/42640947/170830647-c89c21e3-786f-40eb-b704-e50b36a7f10b.png)
+
 #### Docs
 
 [Redux Toolkit Docs](https://redux-toolkit.js.org/introduction/getting-started)
 
 #### Install Template
+
 
 ```sh
 npx create-react-app my-app --template redux
